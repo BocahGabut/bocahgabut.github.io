@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bocahgabut.github.io/static/css/main.a0c931f1.chunk.css",
+    "main.js": "/bocahgabut.github.io/static/js/main.a8a307be.chunk.js",
+    "main.js.map": "/bocahgabut.github.io/static/js/main.a8a307be.chunk.js.map",
+    "runtime-main.js": "/bocahgabut.github.io/static/js/runtime-main.92a0be4c.js",
+    "runtime-main.js.map": "/bocahgabut.github.io/static/js/runtime-main.92a0be4c.js.map",
+    "static/js/2.636b12d3.chunk.js": "/bocahgabut.github.io/static/js/2.636b12d3.chunk.js",
+    "static/js/2.636b12d3.chunk.js.map": "/bocahgabut.github.io/static/js/2.636b12d3.chunk.js.map",
+    "static/js/3.cd14972d.chunk.js": "/bocahgabut.github.io/static/js/3.cd14972d.chunk.js",
+    "static/js/3.cd14972d.chunk.js.map": "/bocahgabut.github.io/static/js/3.cd14972d.chunk.js.map",
+    "index.html": "/bocahgabut.github.io/index.html",
+    "static/css/main.a0c931f1.chunk.css.map": "/bocahgabut.github.io/static/css/main.a0c931f1.chunk.css.map",
+    "static/js/2.636b12d3.chunk.js.LICENSE.txt": "/bocahgabut.github.io/static/js/2.636b12d3.chunk.js.LICENSE.txt",
+    "static/media/Ko-fi_Icon_RGB_rounded.ed7167f2.png": "/bocahgabut.github.io/static/media/Ko-fi_Icon_RGB_rounded.ed7167f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92a0be4c.js",
+    "static/js/2.636b12d3.chunk.js",
+    "static/css/main.a0c931f1.chunk.css",
+    "static/js/main.a8a307be.chunk.js"
+  ]
+}
